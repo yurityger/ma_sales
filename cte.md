@@ -72,4 +72,4 @@ ORDER BY
   `% Revenue from Total` DESC
 ```
 
-![result](images/cte_rslt.png)
+![result](images/cte_rslt_.png)
