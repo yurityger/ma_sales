@@ -195,3 +195,5 @@ WHERE
 ORDER BY
   rank_total_country_account_cnt,
   rank_total_country_sent_cnt
+
+`![результат](images/sql_module_rsl.png)`
