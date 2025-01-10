@@ -1,4 +1,4 @@
-# Revenue by Device and Continent with Sessions
+### Revenue by Device and Continent with Sessions
 У цьому завданні результуючий набір має містити такі стовпчики:
 | Continent | Revenue | Revenue from Mobile | Revenue from Desktop | % Revenue from Total | Account Count | Verified Account | Session Count |
 
@@ -70,5 +70,6 @@ ON
   revenue_total.continent = sessions.continent
 ORDER BY
   `% Revenue from Total` DESC
+```
 
-`![result](images/cte_rslt.png)`
+![result](images/cte_rslt.png)
