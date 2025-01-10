@@ -187,3 +187,5 @@ ORDER BY
 ```
 
 ![result](images/sql_module_rsl.png)
+
+![picture](images/module_pic.png)
