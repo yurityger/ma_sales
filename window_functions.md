@@ -29,3 +29,4 @@ group by ems.id_account, 1) acounts_letters
 order by sent_msg_percent_from_this_month desc
 limit 100
 ```
+![result](images/windows_rslt.png)
