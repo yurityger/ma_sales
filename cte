@@ -69,3 +69,5 @@ ON
   revenue_total.continent = sessions.continent
 ORDER BY
   `% Revenue from Total` DESC
+
+`![result](images/cte_rslt.png)`
