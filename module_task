@@ -15,6 +15,7 @@
 # rank_total_country_account_cnt — рейтинг країн за кількістю створених підписників в цілому по країні;
 # rank_total_country_sent_cnt — рейтинг країн за кількістю відправлених листів в цілому по країні.
 
+```sql
 -- підготували перелік акаунтів
 WITH
   account_date AS (
@@ -196,4 +197,4 @@ ORDER BY
   rank_total_country_account_cnt,
   rank_total_country_sent_cnt
 
-`![результат](images/sql_module_rsl.png)`
+`![result](images/sql_module_rsl.png)`
