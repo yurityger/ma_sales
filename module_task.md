@@ -185,4 +185,4 @@ ORDER BY
   rank_total_country_sent_cnt
 ```
 
-`![result](images/sql_module_rsl.png)`
+![result](images/sql_module_rsl.png)
